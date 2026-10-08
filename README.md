@@ -1,6 +1,6 @@
 # Used Car Price Prediction
 
-Predicting the market value of used cars from listing data. Built as Sprint 14 of the TripleTen Data Science bootcamp, for a fictional used-car service (Rusty Bargain) that wants an app that instantly estimates a car's value.
+Predicting the market value of used cars for a fictional used-car service (Rusty Bargain) that wants an app that instantly estimates a car's value.
 
 ## Business goal
 The service cares about three things: prediction quality, prediction speed, and training time. I compared five models on all three.
